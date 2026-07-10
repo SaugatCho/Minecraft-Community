@@ -11,9 +11,19 @@
 
 [Click here to join the Minecraft ChatGPT Group](https://chatgpt.com/gg/6a4ae637de90819fa6c03ef045f03c3d)
 
-## Rules
+## 📜 Rules
 1. Be respectful.
 2. No spam
 3. No Bullying
+4. NO Fighting
+
+## 🌎 About This Community
+
+Welcome to the Minecraft ChatGPT Group Chat!
+
+This is a place for Minecraft players to meet, chat, and share their ideas. You can talk about builds, mods, unblocked minecraft, clients, servers, updates, and anything Minecraft-related.
+
+Whether you are a builder, PvP player, mod creator, or just love Minecraft, everyone is welcome here!
 
 ⭐ Star this repository if you joined! (If you want to)
+I want to know who joined my Group Chat
