@@ -1,7 +1,7 @@
 <img width="1774" height="887" alt="ChatGPT Image Jul 10, 2026, 11_43_27 AM" src="https://github.com/user-attachments/assets/5e6d69b8-7e09-46ad-a6b2-20aad0bdf4f3" />
 
 
-##Welcome! This is a public Minecraft group chat where people can:
+## Welcome! This is a public Minecraft group chat where people can:
 - Talk about Minecraft
 - Share builds and screenshots
 - Discuss mods and clients
