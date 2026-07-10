@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot 2026-07-10 11 44 33 AM" src="https://github.com/user-attachments/assets/5d511748-6976-4cb0-9451-ae859184cd75" />
+<img width="1774" height="887" alt="ChatGPT Image Jul 10, 2026, 11_43_27 AM" src="https://github.com/user-attachments/assets/5e6d69b8-7e09-46ad-a6b2-20aad0bdf4f3" />
 Welcome! This is a public Minecraft group chat where people can:
 - Talk about Minecraft
 - Share builds and screenshots
