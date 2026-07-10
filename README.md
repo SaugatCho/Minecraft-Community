@@ -15,4 +15,5 @@ Welcome! This is a public Minecraft group chat where people can:
 2. No spam
 3. No Bullying
 
-⭐ Star this repository if you joined! (If you want to)
+⭐ Star this repository if you joined! (If you want to)<img width="1774" height="887" alt="ChatGPT Image Jul 10, 2026, 11_43_27 AM" src="https://github.com/user-attachments/assets/735fa6d6-1c97-47c9-98c1-1986f11cf3f7" />
+
