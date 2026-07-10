@@ -25,5 +25,12 @@ This is a place for Minecraft players to meet, chat, and share their ideas. You 
 
 Whether you are a builder, PvP player, mod creator, or just love Minecraft, everyone is welcome here!
 
+## 🎮 Features
+- Minecraft discussions
+- Build sharing
+- Mod & client talk
+- Server discussions
+- Community events
+
 ⭐ Star this repository if you joined! (If you want to)
  I want to know who joined my Group Chat
